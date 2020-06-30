@@ -4,4 +4,4 @@
 
 The result of this project should be like the example below:
 
-![image](https://github.com/VincieSlytherin/Wider-Face/the%20example.PNG）
+![image](https://github.com/VincieSlytherin/Wider-Face/blob/master/the%20example.PNG）

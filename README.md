@@ -4,5 +4,6 @@
 ## The result of this project should be like the example below:
 ![image](https://github.com/VincieSlytherin/Wider-Face/blob/master/the%20example.PNG)
 
+![another image](https://github.com/VincieSlytherin/Wider-Face/blob/master/r_6.jpg)
 
 The file MTCNN landmark should be used right after MTCNN. And the MTCNN with landmark is a draft。
